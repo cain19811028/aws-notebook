@@ -1,5 +1,10 @@
 # AWS 學習筆記 - 學習管道
 
+## 官方文件
+
+* 英文：[https://aws.amazon.com/documentation/](https://aws.amazon.com/documentation/)
+* 中文：[https://aws.amazon.com/tw/documentation/](https://aws.amazon.com/tw/documentation/)
+
 ## 線上課程
 
 已服用：
