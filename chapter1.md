@@ -12,3 +12,7 @@
 
 [Amazon Neptune](https://aws.amazon.com/tw/about-aws/whats-new/2017/11/amazon-neptune-fast-reliable-graph-database-built-for-the-cloud/ "Neptune")：圖形資料庫，不自覺想到 Neo4j
 
+## 物聯網相關
+
+[Amazon FreeRTOS](https://aws.amazon.com/tw/freertos/)：微型控制器的作業系統
+
