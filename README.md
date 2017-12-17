@@ -15,7 +15,8 @@
 
 已購入：
 
-* 2017-03-05：博碩．Sebastian Hsu - WordPress + AWS架設企業級雲端網站（[9864341901](https://www.tenlong.com.tw/products/9789864341900)）
+* 2017-08-25：清華大學．王毅 - 亞馬遜 AWS 雲基礎與實戰（[9787302479642](https://book.douban.com/subject/27166914/)）
+* 2017-03-05：博碩．Sebastian Hsu - WordPress + AWS架設企業級雲端網站（[9789864341900](https://www.tenlong.com.tw/products/9789864341900)）
 
 
 
