@@ -9,7 +9,7 @@
 
 已服用：
 
-* Udemy - AWS Certified Developer - Associate 2017：[https://www.udemy.com/aws-certified-developer-associate](https://www.udemy.com/aws-certified-developer-associate)
+* Udemy - [AWS Certified Developer - Associate 2017](https://www.udemy.com/aws-certified-developer-associate)
 
 ## 書籍
 
