@@ -40,7 +40,7 @@
 * Amazon Neptune：全受管圖形資料庫服務
 * AWS Database Migration Service：以最短停機時間遷移資料庫
 
-物聯網：
+### 物聯網：
 
 * AWS IoT Core：將裝置連接到雲端
 * Amazon FreeRTOS：適用於微型控制器的 IoT 作業系統
@@ -50,8 +50,6 @@
 * AWS IoT Button：雲端可程式化 Dash Button
 * AWS IoT Device Defender：IoT 裝置的安全管理
 * AWS IoT Device Management：採用、組織和遠端管理 IoT 裝置
-
-
 
 
 
