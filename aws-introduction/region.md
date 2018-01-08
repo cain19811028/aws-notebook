@@ -8,9 +8,11 @@
 
 ### AWS 區域表
 
-[https://aws.amazon.com/tw/about-aws/global-infrastructure/regional-product-services/](https://aws.amazon.com/tw/about-aws/global-infrastructure/regional-product-services/)
+* [https://aws.amazon.com/tw/about-aws/global-infrastructure/regional-product-services/](https://aws.amazon.com/tw/about-aws/global-infrastructure/regional-product-services/)
 
+### Edge Locations
 
+* 可以想成是 AWS 的 CDN（Content Delivery Network）
 
 
 
