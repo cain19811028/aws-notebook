@@ -21,14 +21,14 @@
 
 ### 儲存：
 
-* Amazon S3  ：可擴展的雲端儲存
-* Amazon EBS  ：適用於 EC2 的區塊儲存
-* Amazon Elastic File System  ：適用於 EC2 的受管檔案儲存
-* Amazon Glacier  ：雲端的低成本存檔儲存
-* AWS Storage Gateway  ：混合式儲存整合
-* AWS Snowball  ：PB 級資料傳輸
-* AWS Snowball Edge  ：使用內建運算進行 PB 級資料傳輸
-* AWS Snowmobile  ：EB 級資料傳輸
+* Amazon S3：可擴展的雲端儲存
+* Amazon EBS：適用於 EC2 的區塊儲存
+* Amazon Elastic File System：適用於 EC2 的受管檔案儲存
+* Amazon Glacier：雲端的低成本存檔儲存
+* AWS Storage Gateway：混合式儲存整合
+* AWS Snowball：PB 級資料傳輸
+* AWS Snowball Edge：使用內建運算進行 PB 級資料傳輸
+* AWS Snowmobile：EB 級資料傳輸
 
 
 
