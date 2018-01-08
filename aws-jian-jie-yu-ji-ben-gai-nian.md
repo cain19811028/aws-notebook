@@ -32,13 +32,26 @@
 
 ### 資料庫：
 
-* Amazon Aurora  ：高效能受管關聯式資料庫
-* Amazon RDS  ：適用於 MySQL、PostgreSQL、Oracle、SQL Server 和 MariaDB 的受管關聯式資料庫服務
-* Amazon DynamoDB  ：受管的 NoSQL 資料庫
-* Amazon ElastiCache  ：記憶體內快取系統
-* Amazon Redshift  ：快速、簡單、經濟實惠的資料倉儲
-* Amazon Neptune  ：全受管圖形資料庫服務
-* AWS Database Migration Service  ：以最短停機時間遷移資料庫
+* Amazon Aurora：高效能受管關聯式資料庫
+* Amazon RDS：適用於 MySQL、PostgreSQL、Oracle、SQL Server 和 MariaDB 的受管關聯式資料庫服務
+* Amazon DynamoDB：受管的 NoSQL 資料庫
+* Amazon ElastiCache：記憶體內快取系統
+* Amazon Redshift：快速、簡單、經濟實惠的資料倉儲
+* Amazon Neptune：全受管圖形資料庫服務
+* AWS Database Migration Service：以最短停機時間遷移資料庫
+
+物聯網：
+
+* AWS IoT Core：將裝置連接到雲端
+* Amazon FreeRTOS：適用於微型控制器的 IoT 作業系統
+* AWS Greengrass：裝置的本機運算、簡訊和同步
+* AWS IoT 1-Click：按一下即可建立 AWS Lambda 觸發程式
+* AWS IoT Analytics：IoT 裝置分析
+* AWS IoT Button：雲端可程式化 Dash Button
+* AWS IoT Device Defender：IoT 裝置的安全管理
+* AWS IoT Device Management：採用、組織和遠端管理 IoT 裝置
+
+
 
 
 
