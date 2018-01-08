@@ -30,5 +30,15 @@
 * AWS Snowball Edge：使用內建運算進行 PB 級資料傳輸
 * AWS Snowmobile：EB 級資料傳輸
 
+### 資料庫：
+
+* Amazon Aurora  ：高效能受管關聯式資料庫
+* Amazon RDS  ：適用於 MySQL、PostgreSQL、Oracle、SQL Server 和 MariaDB 的受管關聯式資料庫服務
+* Amazon DynamoDB  ：受管的 NoSQL 資料庫
+* Amazon ElastiCache  ：記憶體內快取系統
+* Amazon Redshift  ：快速、簡單、經濟實惠的資料倉儲
+* Amazon Neptune  ：全受管圖形資料庫服務
+* AWS Database Migration Service  ：以最短停機時間遷移資料庫
+
 
 
