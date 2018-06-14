@@ -10,6 +10,7 @@
 
 * 每個區域的啟動配置數（Launch configurations）：200
 * 每個區域的 Auto Scaling groups：200
+* 每個 Auto Scaling group 的負載均衡器：50
 
 ## AWS CloudFormation 限制
 
