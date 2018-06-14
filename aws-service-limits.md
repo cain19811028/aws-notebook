@@ -11,5 +11,13 @@
 * 每個區域的啟動配置數（Launch configurations）：200
 * 每個區域的 Auto Scaling groups：200
 
+## AWS CloudFormation 限制
+
+官網連結：[https://docs.aws.amazon.com/zh\_cn/AWSCloudFormation/latest/UserGuide/cloudformation-limits.html](https://docs.aws.amazon.com/zh_cn/AWSCloudFormation/latest/UserGuide/cloudformation-limits.html)
+
+* Stacks：200
+* Stack sets：20
+* Stack instances per stack set：500
+
 
 
