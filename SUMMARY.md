@@ -6,6 +6,7 @@
   * [AWS 產品服務清單](aws-introduction/aws-product.md)
   * [Region 與 AZ](aws-introduction/region.md)
 * [AWS Service Limits](aws-service-limits.md)
+* [AWS Summit](aws-summit.md)
 * [Kubernetes](kubernetes.md)
   * [Workshop](kubernetes/workshop.md)
 
