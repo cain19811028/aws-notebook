@@ -8,4 +8,5 @@
 * [AWS Service Limits](aws-service-limits.md)
 * [AWS EKS](aws_eks.md)
 * [AWS Summit](aws-summit.md)
+* [AWS Workshop](aws-workshop.md)
 
