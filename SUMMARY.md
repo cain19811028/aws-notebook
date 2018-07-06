@@ -7,6 +7,7 @@
   * [Region 與 AZ](aws-introduction/region.md)
 * [AWS Service Limits](aws-service-limits.md)
 * [AWS EKS](aws_eks.md)
+* [AWS IoT](aws-iot.md)
 * [AWS Summit](aws-summit.md)
 * [AWS Workshop](aws-workshop.md)
 
