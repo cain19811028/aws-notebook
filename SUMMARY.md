@@ -8,6 +8,6 @@
 * [AWS EKS](aws_eks.md)
 * [AWS IoT](aws-iot.md)
 * [AWS Summit](aws-summit.md)
-* [AWS re:Invent](aws-re-invernt-2017.md)
+* [AWS re:Invent](aws-re-invernt.md)
 * [AWS Workshop](aws-workshop.md)
 
