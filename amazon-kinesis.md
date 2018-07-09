@@ -15,12 +15,15 @@
 
 官網連結：[https://aws.amazon.com/tw/kinesis/data-firehose/](https://aws.amazon.com/tw/kinesis/data-firehose/)
 
-運作方式：![](https://d1.awsstatic.com/diagrams/product-page-diagrams/diagram-how-it-works-kinesis-data-firehose-splunk.977c40fd40f3f5f5ba9c2491b1e57620917292e7.png)使用案例：
-
-###### IOT ANALYTICS
+運作方式：![](https://d1.awsstatic.com/diagrams/product-page-diagrams/diagram-how-it-works-kinesis-data-firehose-splunk.977c40fd40f3f5f5ba9c2491b1e57620917292e7.png)使用案例１：物聯網分析
 
 * Kinesis Data Firehose 可以持續從連線裝置擷取資料。
 * Kinesis Data Firehose 將資料載入 S3 和 Redshift，讓客戶能以近乎即時的速度存取metrics, insights 和 dashboards。
+
+使用案例２：日誌分析
+
+* 安裝和設定 Amazon Kinesis 代理器，自動查看應用程式和伺服器日誌檔，並將資料傳送到 Kinesis Data Firehose。
+* Kinesis Data Firehose 可持續將日誌資料串流到 Elasticsearch，並透過 Kibana 視覺化資料並進行分析。
 
 
 
