@@ -6,6 +6,20 @@ AWS IoT 是一種能夠將裝置連接至 AWS 服務和其他裝置、保護資�
 
 ![](https://m.media-amazon.com/images/G/01/DeveloperBlogs/AmazonDeveloperBlogs/legacy/AWS_IoT23._CB520207442_.png)
 
+## 規則引擎（Rule Engine）
+
+規則引擎可以將訊息路由到 AWS 終端節點，包含：
+
+* AWS Lambda
+* Amazon Kinesis
+* Amazon S3
+* Amazon Machine Learning
+* Amazon DynamoDB
+* Amazon CloudWatch
+* Amazon Elasticsearch Service 搭配內建 Kibana 整合
+
+使用 AWS Lambda、Amazon Kinesis 和 Amazon Simple Notification Service（SNS）可以存取外部終端節點。
+
 ## AWS IoT Core
 
 官網連結：[https://aws.amazon.com/tw/iot-core/](https://aws.amazon.com/tw/iot-core/)
