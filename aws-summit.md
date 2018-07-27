@@ -2,5 +2,9 @@
 
 台灣：[https://aws.amazon.com/tw/summits/](https://aws.amazon.com/tw/summits/)
 
+AWS Summit Taipei 2018 - [slideshare](https://www.slideshare.net/AmazonWebServices/tag/tpe-summit-2018)
+
+---
+
 
 
